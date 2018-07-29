@@ -44,6 +44,7 @@ public class intruder {
 		intruder x= new intruder ();
 		x.runt();
 		System.out.println("\n\n\n" + x.c);
+		System.out.println("This is the number of seconds "+x.c*10);
 
 	}
 }
